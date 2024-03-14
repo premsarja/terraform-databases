@@ -5,3 +5,7 @@
   redis:
     source: https://github.com/premsarja/tf-module-redis.git
     version: "main"    
+
+  mysql:
+    source: https://github.com/premsarja/tf-module-mysql.git
+    version: "main"      
