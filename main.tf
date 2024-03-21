@@ -15,7 +15,7 @@ module "mysql" {
   ENV                            = var.ENV
   MYSQL_STORAGE                  = var.MYSQL_STORAGE
   MYSQL_ENGINE_VERSION           = var.MYSQL_ENGINE_VERSION
-  INSTANCE_CLASS                  = var.INSTANCE_CLASS
+  INSTANCE_CLASS                 = var.INSTANCE_CLASS
   
 
 }
